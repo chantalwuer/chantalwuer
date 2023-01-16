@@ -11,9 +11,9 @@ Aspiring data scientist with interest in sustainability. 🌱 I moved from Germa
 - 💬 Always happy to connect with like-minded people and chat about sustainability and earth science related data
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chantalwuer&show_icons=true&locale=en&layout=compact" alt="chantalwuer" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=chantalwuer&show_icons=true&locale=en&layout=compact" alt="chantalwuer" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chantalwuer&show_icons=true&locale=en" alt="chantalwuer" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chantalwuer&show_icons=true&locale=en" alt="chantalwuer" /></p>
 
 
 <!--
